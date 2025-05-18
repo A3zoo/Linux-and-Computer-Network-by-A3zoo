@@ -6,27 +6,27 @@ This roadmap is designed for software engineers and developers who want to maste
 
 ## Weekly Plan
 
-| Week    | Focus Area                | Topics & Skills                                                                                 | Practice / Tools                             |
-|---------|---------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------|
-| **Week 1** | Linux Fundamentals         | - Linux basics: Filesystem, commands, permissions (chmod, chown)  
+| Week       | Focus Area                 | Topics & Skills                                                                                          | Practice / Tools                        |
+|------------|----------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------|
+| **Week 1** | Linux Fundamentals          | - Linux basics: Filesystem, commands, permissions (chmod, chown)  
 - User & group management  
 - Process management (ps, top, kill)  
 - Package management (apt, yum)  
-- Shell scripting basics (bash)                                                      | Terminal practice, write simple bash scripts             |
-| **Week 2** | Linux Advanced & Services  | - File system hierarchy (/etc, /var, /usr...)  
+- Shell scripting basics (bash)                       | Terminal practice, write simple bash scripts       |
+| **Week 2** | Linux Advanced & Services   | - File system hierarchy (/etc, /var, /usr...)  
 - Systemd, service management (systemctl)  
 - Networking commands (ifconfig/ip, netstat, ss)  
 - Disk management (fdisk, mount, df)  
-- Log files (journalctl, /var/log)                                             | Manage services, analyze logs                             |
-| **Week 3** | Networking Basics          | - OSI & TCP/IP models  
+- Log files (journalctl, /var/log)                   | Manage services, analyze logs                      |
+| **Week 3** | Networking Basics           | - OSI & TCP/IP models  
 - IP addressing, subnetting, CIDR  
 - Common protocols (TCP, UDP, ICMP)  
 - DNS, DHCP, HTTP basics  
-- Routing & Switching concepts                                               | Use Wireshark, ping, traceroute, nslookup                  |
+- Routing & Switching concepts                        | Use Wireshark, ping, traceroute, nslookup          |
 | **Week 4** | Network Services & Security | - Setup basic network services: SSH, FTP, HTTP server (Apache/Nginx)  
 - Firewall basics (iptables, ufw)  
 - SSH key management, secure shell access  
-- Basic troubleshooting & monitoring tools                               | Setup server, configure firewall, monitor traffic          |
+- Basic troubleshooting & monitoring tools          | Setup server, configure firewall, monitor traffic  |
 
 ---
 
